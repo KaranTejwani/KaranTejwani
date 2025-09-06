@@ -1,6 +1,6 @@
 # Hi, I'm Karan Kumar
 
-**Computer Science Student | AI Enthusiast | Full Stack Developer**
+**Computer Science Student | AI Engineer | Full Stack Developer**
 
 Building intelligent solutions that make a real difference in people's lives.
 
