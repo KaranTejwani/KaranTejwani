@@ -80,7 +80,7 @@ My immediate goals include deploying more AI applications in production, collabo
 
 ## GitHub Statistics
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karantejwani&show_icons=true&theme=radical&cache_seconds=1800)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karantejwani&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karantejwani&layout=compact&theme=radical)
 
