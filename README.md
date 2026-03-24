@@ -1,4 +1,4 @@
-# Karan Kumar — AI Research Engineer
+# Karan Kumar - AI Research Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karantejwani/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karantejwani.github.io/portfolio)
