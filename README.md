@@ -23,14 +23,14 @@ I don't just research. I ship.
 
 ## Featured Work
 
-### 🧠 NeuroEmotion — BCI Emotion Recognition System
+### 🧠 NeuroEmotion - BCI Emotion Recognition System
 Benchmarked **18 deep learning models** across two officially acquired EEG datasets with multiple preprocessing pipelines. Trained the best-performing model and deployed a Flutter mobile app that classifies human emotions in real-time from raw brainwave signals.
 
 `TensorFlow` `Flutter` `EEG Signal Processing` `BCI` `Python`
 
 ---
 
-### 🏥 Healr — Healthcare Platform
+### 🏥 Healr - Healthcare Platform
 Full-stack platform for searching FDA-approved medicines, booking lab tests, and consulting doctors. Built and deployed end-to-end.
 
 `React.js` `Node.js` `Express.js` `MongoDB`
@@ -44,7 +44,7 @@ Production-grade speech-to-text system using OpenAI Whisper - deployed internall
 
 ---
 
-### 🤖 Simper AI — EdTech Startup
+### 🤖 Simper AI - EdTech Startup
 NLP-powered intelligent examination system automating paper generation and answer grading. Incubated at NEP NIC Sukkur.
 
 `React` `Python` `NLP` `OpenAI`
@@ -82,10 +82,10 @@ NLP-powered intelligent examination system automating paper generation and answe
 
 ## Currently
 
-- Finishing NeuroEmotion — EEG-based emotion recognition research + mobile deployment
+- Finishing NeuroEmotion - EEG-based emotion recognition research + mobile deployment
 - Contributing to a journal paper on AI (2025)
 - Exploring research engineer roles at AI labs
 
 ---
 
-*Sukkur, Pakistan — open to remote and relocation*
+*Sukkur, Pakistan - open to remote and relocation*
