@@ -17,7 +17,7 @@ I don't just research. I ship.
 | Paper | Venue | Role |
 |-------|-------|------|
 | From Feedback to Insight: Leveraging Transformers and XAI to Identify Helpful Student Reviews | IEEE EDUCON 2026 | Co-author |
-| Analyzing the Classification-Localization Gap Between CNNs and Vision Transformers for Image Manipulation Detection | IEEE ICOMER 2026 | First author |
+| Analyzing the Classification-Localization Gap Between CNNs and Vision Transformers for Image Manipulation Detection | IEEE iCoMET 2026 | First author |
 
 ---
 
