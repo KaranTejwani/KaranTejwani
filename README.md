@@ -82,7 +82,6 @@ NLP-powered intelligent examination system automating paper generation and answe
 
 ## Currently
 
-- Finishing NeuroEmotion - EEG-based emotion recognition research + mobile deployment
 - Contributing to a journal paper on AI (2025)
 - Exploring research engineer roles at AI labs
 
