@@ -6,7 +6,7 @@
 
 ---
 
-Final-year CS student at Sukkur IBA University with **two accepted IEEE publications** in Transformers, Explainable AI, and Computer Vision. I work at the intersection of deep learning research and production engineering - from benchmarking 18 models on EEG datasets to deploying systems at the National Assembly of Pakistan.
+CS graduate from Sukkur IBA University with **two accepted IEEE publications** in Transformers, Explainable AI, and Computer Vision. I work at the intersection of deep learning research and production engineering - from benchmarking 18 models on EEG datasets to deploying systems at the National Assembly of Pakistan.
 
 I don't just research. I ship.
 
@@ -82,7 +82,7 @@ NLP-powered intelligent examination system automating paper generation and answe
 
 ## Currently
 
-- Contributing to a journal paper on AI (2025)
+- Contributing to a journal paper on AI (2026)
 - Exploring research engineer roles at AI labs
 
 ---
